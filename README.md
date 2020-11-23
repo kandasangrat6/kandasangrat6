@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![my stats](https://github-readme-stats.vercel.app/api/wakatime?username=kandasangrat6)](https://wakatime.com/@kandasangrat6)
+[![my stats](https://github-readme-stats.vercel.app/api/wakatime?username=kandasangrat6&layout=compact)](https://wakatime.com/@kandasangrat6)
